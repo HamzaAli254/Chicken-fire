@@ -23,5 +23,5 @@ The third is that after the menu is out of stock, the customers go to the cashie
 •	The website is in the Arabic language
 This project was created for the #beest program to showcase my digital menu and demonstrate my HTML and CSS web development skills.
 ## Screenshots
-![hompage Section](Homepage.png)
-![QR Section](QR.png)
+![hompage Section](Homepage.jpeg)
+![QR Section](QR.jpeg)
